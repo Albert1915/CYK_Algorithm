@@ -8,13 +8,13 @@
 
 
 ## Features💡
-By using CFG_Parsing
+By using CYK_Algorithm
 - [x] Checks whether a string is accepted by the language or not.
 - [x] Get details of Table Filling process
 - [x] Get details structure of the rules
 
 ## Technology 👨‍💻
-CFG_Parsing is created using:
+CYK_Algorithm is created using:
 - [Python](https://www.python.org/) - 
 Python as the main programming language.
 - [Streamlit](https://streamlit.io/) - Streamlit is a web framework for python that we use to deploy our apps.
